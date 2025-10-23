@@ -1,4 +1,3 @@
-# Chauve-bis
 <!DOCTYPE html>
 <html lang="fr">
 <head>

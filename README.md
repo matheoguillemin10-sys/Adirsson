@@ -59,7 +59,7 @@
   <section class="card">
     <div class="avatar">
       <!-- Mets ici ta photo -->
-      <img src="IMG_0158.jpeg" alt="photo">
+      <img src="IMG_0160.jpeg" alt="photo">
     </div>
     <div class="name">Linkedin ou interpol</div>
     <div class="links">
@@ -72,11 +72,11 @@
     const msg = document.getElementById("message");
     document.getElementById("interpol").addEventListener("click",()=>{
       msg.style.color="#00ffcc";
-      msg.textContent="🕵️ VRAI : Attaque en bande oraganisé pour une greffe de cheveux en Turquie";
+      msg.textContent="🕵️ VRAI : Attaque en bande oraganisé pour une greffe de cheveux en Turquie et ancien membre du BDE";
     });
     document.getElementById("linkedin").addEventListener("click",()=>{
       msg.style.color="#ff5c5c";
-      msg.textContent="❌ FAUX : Attaque en bande oraganisé pour une greffe de cheveux en Turquie";
+      msg.textContent="❌ FAUX : Attaque en bande oraganisé pour une greffe de cheveux en Turquie et ancien membre du BDE";
     });
   </script>
 </body>
